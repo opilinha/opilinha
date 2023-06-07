@@ -1,11 +1,13 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <title> Titulo </title>
-    --titulo-principal
-    --cor-de-fundo #3366FF
-  </head>
-  <body>
-   backgroundcolor:var(--cor-de-fundo);
-   background-np-repeat
-  </body>
+
+<head>
+  <meta charset="UTF">
+  <meta name="viewport" content="width=device-width, initial-scale'">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1> Colégio Cívico Militar Monteiro Lobato </h1>
+  <img src="img/Combo.png" alt=""
+</body>
 </html>
